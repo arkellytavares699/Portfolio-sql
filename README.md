@@ -44,4 +44,4 @@ Consolidar meu aprendizado em SQL, mostrando domínio em MySQL e aplicabilidade 
 ## 📬 Contato
 
 Desenvolvido por **Arquele**  
-Email: [teu email]
+Email: [arkellytavares699@gmail.com]
