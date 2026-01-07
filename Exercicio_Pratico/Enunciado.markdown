@@ -1,8 +1,8 @@
 Exercício Prático - Gestão de um estágios 
 Cenário: 
--Uma escola profissional pretende implementar um sistema de gestão de 
+  Uma escola profissional pretende implementar um sistema de gestão de 
 estágios dos seus alunos em empresas.
--O objetivo é registar e acompanhar os estágios 
+  O objetivo é registar e acompanhar os estágios 
 realizados ao longo do ano letivo, bem como os dados associados aos alunos, 
 empresas, tutores e avaliações. 
 Contexto: 
