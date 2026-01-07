@@ -29,7 +29,7 @@ Consolidar meu aprendizado em SQL, mostrando domínio em MySQL e aplicabilidade 
 ## 📌 Observações
 
 - Os trabalhos foram criados para fins de estudo e aplicação prática.  
-- Cada pasta do repositório (`01-basico`, `02-intermediario`, `03-avancado`) contém os exercícios e projetos correspondentes ao nível de complexidade, com explicações curtas sobre o que foi aprendido em cada trabalho.  
+- Cada pasta do repositório contém os exercícios e projetos correspondentes e com explicações curtas sobre o que foi aprendido em cada trabalho.  
 
 ---
 
