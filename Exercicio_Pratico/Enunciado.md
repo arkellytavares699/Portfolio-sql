@@ -22,7 +22,10 @@ Deverás criar uma base de dados relacional em MySQL que permita:
 ### 1. Criação da Base de Dados e Tabelas
 - Criar a base de dados em MySQL.  
 - Criar tabelas para:  
-  - Alunos  
+  - Alunos
+  - Cursos
+  - Responsável das Empresas
+  - Coordenadores do Curso
   - Empresas  
   - Tutores  
   - Estágios  
