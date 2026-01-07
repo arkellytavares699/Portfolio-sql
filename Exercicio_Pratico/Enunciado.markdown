@@ -1,23 +1,28 @@
-Exercício Prático - Gestão de um estágios 
-Cenário: 
-  Uma escola profissional pretende implementar um sistema de gestão de 
-estágios dos seus alunos em empresas.
-  O objetivo é registar e acompanhar os estágios 
-realizados ao longo do ano letivo, bem como os dados associados aos alunos, 
-empresas, tutores e avaliações. 
-Contexto: 
-Deverás criar uma base de dados relacional em MySQL que permita: 
-1. Gerir a informação dos alunos e os seus dados académicos básicos; 
-2. Registar as empresas que acolhem estagiários e os respetivos tutores; 
-3. Relacionar cada estágio com um aluno, uma empresa e um tutor; 
-4. Registar as datas de início e fim dos estágios; 
-5. Permitir registar uma avaliação final do estágio (ex: nota, observações). 
-Requisitos: 
-1. Criar a base de dados e as tabelas em SQL. 
-2. Inserir dados fictícios em todas as tabelas (mínimo de 5 registos por 
-tabela). 
-3. Criar as seguintes consultas em SQL: 
-• Listar todos os alunos e as empresas onde estão a estagiar; 
-• Consultar os tutores e os alunos que acompanham; 
-• Obter a lista de estágios ativos (a decorrer na data atual); 
-• Listar os estágios por empresa.
+# Gestão de Estágios
+
+## Objetivo
+Desenvolver uma base de dados relacional em MySQL para gerir os estágios dos alunos, registando informações sobre alunos, empresas, tutores e avaliações.
+
+## Estrutura da Base de Dados
+- **Alunos**: regista os dados académicos básicos dos alunos.
+- **Empresas**: regista empresas que acolhem estagiários.
+- **Tutores**: regista os tutores responsáveis pelos alunos nas empresas.
+- **Estágios**: relaciona cada estágio com um aluno, uma empresa e um tutor, incluindo datas de início e fim.
+- **Avaliações**: permite registar notas e observações do estágio.
+
+## Scripts incluídos
+1. `01-criacao-tabelas.sql` – Criação de todas as tabelas com as relações.
+2. `02-inserir-dados.sql` – Inserção de dados fictícios (mínimo 5 registos por tabela).
+3. `03-consultas.sql` – Consultas importantes:
+   - Listar todos os alunos e as empresas onde estão a estagiar.
+   - Consultar os tutores e os alunos que acompanham.
+   - Obter a lista de estágios ativos.
+   - Listar os estágios por empresa.
+
+## Aprendizados
+- Criação de **bases de dados relacionais** e integridade referencial.
+- Utilização de **JOINs** para consultar múltiplas tabelas.
+- Aplicação de filtros de datas para estágios ativos.
+- Organização de dados de forma eficiente para consultas de gestão.
+
+
