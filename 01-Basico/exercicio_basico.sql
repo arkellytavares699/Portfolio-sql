@@ -18,3 +18,4 @@ INSERT INTO empregados (id, nome, cargo, ordenado, telefone, email, ativo) VALUE
 (5, 'Joaquim', 'Vendedor', 700.00, NULL, 'joaquim@live.com', 1),
 (6, 'Joana', 'Empregado', 999.00, 256888888, 'joana@outlook.com', 1);
 
+remobe
