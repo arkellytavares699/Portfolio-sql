@@ -22,7 +22,7 @@ INSERT INTO empregados (id, nome, cargo, ordenado, telefone, email, ativo) VALUE
 FORMA DE RESOLVER O PROBLEMA DO AVISO !
 UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
   df_b = pd.read_sql(query_b, conn)
-
+--------------------------------------------------------------------------------------------
 from sqlalchemy import create_engine
 import pandas as pd
 
