@@ -46,4 +46,4 @@ Cada questão no notebook possui **explicação em Markdown** seguida da query e
 
 ## Contato
 Desenvolvido por Arquele  
-Email: [teu email]
+Email: [arkellytavares699@gmail.com]
