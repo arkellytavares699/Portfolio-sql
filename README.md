@@ -1,2 +1,42 @@
-# Portfolio-sql
-Portfólio de SQL com trabalhos desenvolvidos durante a formação, cobrindo desde conceitos básicos até técnicas avançadas. Inclui exercícios práticos, queries complexas e modelagem de dados, com o objetivo de demonstrar habilidades aplicáveis em análise de dados e business intelligence.
+🗃 Portfólio de Estudos em SQL
+Este repositório contém os trabalhos que desenvolvi durante a formação em SQL, desde exercícios básicos até projetos avançados. Inclui códigos, consultas e scripts que exemplificam a criação, manipulação e consulta de dados em MySQL.
+
+🎯 Objetivo
+Consolidar meu aprendizado em SQL, mostrando domínio em MySQL e aplicabilidade em análise de dados e Business Intelligence.
+
+🧠 Conteúdos Abordados
+
+Criação de bancos de dados e tabelas (CREATE)
+
+Inserção de dados (INSERT)
+
+Atualização (UPDATE) e exclusão (DELETE) de registros
+
+Consultas básicas e avançadas (SELECT, WHERE, JOIN, GROUP BY, HAVING, ORDER BY, LIMIT)
+
+Funções agregadas (SUM, COUNT, AVG, etc.)
+
+Subqueries e queries aninhadas
+
+Criação de views e procedures
+
+Indexação e otimização de queries
+
+Noções de modelo entidade-relacionamento (ER)
+
+Exercícios de integridade e normalização de dados
+
+📌 Observações
+Os trabalhos foram criados para fins de estudo e aplicação prática. Cada pasta do repositório (01-basico, 02-intermediario, 03-avancado) contém os exercícios e projetos correspondentes ao nível de complexidade, com explicações curtas sobre o que foi aprendido em cada trabalho.
+
+✨ Aprendizados e Insights
+
+Como estruturar consultas eficientes e corretas
+
+Melhores práticas de modelagem e manutenção de dados
+
+Aplicação de SQL para suporte à tomada de decisão e BI
+
+📬 Contato
+Desenvolvido por Arquele
+Email: [teu email]
